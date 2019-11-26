@@ -29,9 +29,10 @@
 	This is my first IOS project I have ever built on my own. The purpose of this app is I wanted to create an App where people can reminded of their task and to get everyday tasks finished.
 	<a href="https://github.com/jianqi14/Resume/tree/master/ReminderApp">
 		<img src="https://img.shields.io/static/v1?label=Jian_Qi&message=ReminderApp&color=00969B">
-	</a>
-
-	![Taskgif](https://user-images.githubusercontent.com/40045109/69617112-9681aa00-0fec-11ea-9564-abef401288ba.gif)
-
-	
+	</a>	
 </p>
+
+![Taskgif](https://user-images.githubusercontent.com/40045109/69617112-9681aa00-0fec-11ea-9564-abef401288ba.gif)
+![Task2LinksGif](https://user-images.githubusercontent.com/40045109/69617626-52db7000-0fed-11ea-83ef-0324a43264fc.gif)
+![Task3Gif](https://user-images.githubusercontent.com/40045109/69617649-5a9b1480-0fed-11ea-8c87-a37f6d937ae5.gif)
+
