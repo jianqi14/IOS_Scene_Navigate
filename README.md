@@ -32,8 +32,6 @@
 	</a>	
 </p>
 
-<img src="https://user-images.githubusercontent.com/40045109/69617112-9681aa00-0fec-11ea-9564-abef401288ba.gif" width="48">
-
-![Task2LinksGif](https://user-images.githubusercontent.com/40045109/69617626-52db7000-0fed-11ea-83ef-0324a43264fc.gif)
-![Task3Gif](https://user-images.githubusercontent.com/40045109/69617649-5a9b1480-0fed-11ea-8c87-a37f6d937ae5.gif)
-
+<img src="https://user-images.githubusercontent.com/40045109/69617112-9681aa00-0fec-11ea-9564-abef401288ba.gif" width="96">
+<img src="https://user-images.githubusercontent.com/40045109/69617626-52db7000-0fed-11ea-83ef-0324a43264fc.gif" width="96">
+<img src="https://user-images.githubusercontent.com/40045109/69617649-5a9b1480-0fed-11ea-8c87-a37f6d937ae5.gif" width="96">
