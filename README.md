@@ -30,4 +30,8 @@
 	<a href="https://github.com/jianqi14/Resume/tree/master/ReminderApp">
 		<img src="https://img.shields.io/static/v1?label=Jian_Qi&message=ReminderApp&color=00969B">
 	</a>
+
+	![Taskgif](https://user-images.githubusercontent.com/40045109/69617112-9681aa00-0fec-11ea-9564-abef401288ba.gif)
+
+	
 </p>
