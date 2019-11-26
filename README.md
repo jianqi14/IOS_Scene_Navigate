@@ -26,7 +26,7 @@
 <h1 align="center">Work Experience</h1>
 
 <p align="center">
-	This is my first IOS project I have ever built on my own. The purpose of this app is I wanted to create an App where people can reminded of their task and to get everyday tasks finished.
+	This is my first IOS project I have ever built on my own. As you may see, I am not fully finished yet and I'm working really hard on this IOS App. The purpose of this app is I wanted to create an App where people can reminded of their task and to get everyday tasks finished.
 	<br/>
 	<a href="https://github.com/jianqi14/Resume/tree/master/ReminderApp">
 		<img src="https://img.shields.io/static/v1?label=Jian_Qi&message=ReminderApp&color=00969B">
