@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-	Hi, I'm a current Senior pursuing my Bachelor of Science at San Francisco State University in Computer Science, expected graduation this upcoming Spring of May 2020. I'm aspired to become a Software Engineer specialized in IOS Development. Check out some of my work below and feel free to connect anytime.
+	Hi, I'm a recent graduate at San Francisco State University with a Bachelor of Science in Computer Science. I'm aspired to become a Software Engineer specialized in IOS Development. Check out some of my work below and feel free to connect anytime.
 </p>
 
-<h1 align="center">Work Experience</h1>
+<h1 align="center">App</h1>
 
 <p align="center">
 	This is my first IOS project I have ever built on my own. As you may see, I am not fully finished yet and I'm working really hard on this IOS App. The purpose of this app is I wanted to create an App where people can reminded of their task and to get everyday tasks finished.
