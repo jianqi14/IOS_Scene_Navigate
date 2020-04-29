@@ -1,5 +1,5 @@
 <h1 align="center">Jian Qi</h1>
-<h3 align="center">IOS Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
 	<a href="https://github.com/jianqi14">
